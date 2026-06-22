@@ -1,0 +1,1774 @@
+[
+    {
+        "name": "hard_negatives/squad_top15HN.jsonl.gz",
+        "lines": 87599,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/nq_top15HN.jsonl.gz",
+        "lines": 100231,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/hotpotqa_top15HN.jsonl.gz",
+        "lines": 85000,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/fever_top15HN.jsonl.gz",
+        "lines": 109810,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/en_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 3547,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/ja_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 3697,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/ar_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 12373,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/bn_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 1713,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/fi_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 6553,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/id_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 4902,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/ko_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 1294,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/ru_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 5366,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/sw_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 2072,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/te_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 3880,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mrtydi/th_mrtydi_train_1pos-HN-2-200.jsonl",
+        "lines": 3318,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/en_miracal_train_split_1pos-HN-2.jsonl",
+        "lines": 6189,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/es_miracal_train_split_1pos-HN-2.jsonl",
+        "lines": 7008,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/fr_miracal_train_split_1pos-HN-2.jsonl",
+        "lines": 1860,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/ja_miracal_train_split_1pos-HN-2.jsonl",
+        "lines": 5395,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/ar_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 4210,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/bn_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 3050,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/fa_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 3403,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/fi_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 3149,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/hi_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 1996,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/id_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 9943,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/ko_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 1587,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/ru_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 6530,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/sw_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 1188,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/te_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 1863,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/th_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 2972,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/zh_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 2499,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/MT_cs_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 6189,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/MT_it_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 6189,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/miracl_split/MT_nl_miracal_train_split_1pos-HN-2.jsonl.gz",
+        "lines": 6189,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/ar_sadeem_question_answer_2HN.jsonl.gz",
+        "lines": 4037,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/czech_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 5620,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/dutch_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 4448,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/french_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 4932,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/german_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 4814,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/italian_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 4508,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/portuguese_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 7020,
+        "weight": 1
+    },
+    {
+        "name": "synthetic_multilingual/news_summary_article_Mixtral8x22B/hard_negatives/spanish_mixtral8x22B_news_summary_body_2HN.jsonl.gz",
+        "lines": 6147,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-es/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-es/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-es/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-es/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-es/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-fr/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 73597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-fr/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117272,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-fr/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 134358,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-fr/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92313,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-fr/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251455,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ja/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ja/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6334,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ja/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ja/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60108,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ja/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252658,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-pt/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 64090,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-pt/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70650,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-pt/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 94745,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-pt/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92220,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-pt/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252539,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ar/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41625,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 188919,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92197,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/de-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252636,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-de/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106651,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-de/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254432,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-de/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162836,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-de/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92071,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-de/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-es/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-es/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-es/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-es/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-es/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-fr/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106650,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-fr/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 253989,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-fr/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162666,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-fr/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92243,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-fr/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ja/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106606,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ja/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 255324,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ja/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162660,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ja/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 97174,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ja/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-pt/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106643,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-pt/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254357,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-pt/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162776,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-pt/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92145,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-pt/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ar/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/en-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-fr/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-fr/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-fr/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-fr/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-fr/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ja/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ja/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ja/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ja/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ja/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-pt/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-pt/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-pt/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-pt/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-pt/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/es-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ja/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3247,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ja/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6334,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ja/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ja/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60180,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ja/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252324,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-pt/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 64088,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-pt/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-pt/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 94748,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-pt/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92392,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-pt/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251804,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ar/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41621,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 117275,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92364,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/fr-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251964,
+        "weight": 1
+    },
+    
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-pt/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3247,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-pt/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6334,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-pt/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-pt/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60140,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-pt/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252445,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ar/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 3246,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 6333,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 3114,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 60124,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ja-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 252634,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-ar/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-ar/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-ar/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-ar/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-ar/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 41629,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 70654,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 16345,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92274,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/pt-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 251890,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-ko/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-ko/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-ko/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-ko/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-ko/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ar-zh/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-zh/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-zh/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-zh/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/ko-zh/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-it/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-it/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-it/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-it/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-it/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-nl/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-nl/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-nl/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-nl/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/zh-nl/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/nl-cs/specter_train_pairs_deduplicated.jsonl.gz",
+        "lines": 106649,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/nl-cs/NQ-train_pairs_deduplicated.jsonl.gz",
+        "lines": 254597,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/nl-cs/stackexchange_duplicate_questions_title_title_deduplicated.jsonl.gz",
+        "lines": 162684,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/nl-cs/squad_pairs_deduplicated.jsonl.gz",
+        "lines": 92116,
+        "weight": 1
+    },
+    {
+        "name": "hard_negatives/mt-crosslingual/nl-cs/AllNLI_pairs_deduplicated.jsonl.gz",
+        "lines": 254157,
+        "weight": 1
+    },
+   
+    {
+        "name": "ibm-cio/hard_negatives/sws_case_triples_all_simlm_fmt.jsonl.gz",
+        "lines": 1200,
+        "weight": 1
+    },
+    {
+        "name": "ibm-cio/hard_negatives/ibm_cio_ibm_docs_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 474637,
+        "weight": 1
+    },
+    {
+        "name": "ibm-cio/hard_negatives/ibm_cio_support_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 978515,
+        "weight": 1
+    }
+]

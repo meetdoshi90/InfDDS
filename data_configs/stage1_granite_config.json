@@ -1,0 +1,119 @@
+[
+    {
+        "name": "squad_pairs_uniq_passages_train.jsonl.gz",
+        "lines": 87599,
+        "weight": 1,
+        "instruction": "Given a question, retrieve Wikipedia passages that answer the question"
+    },
+    {
+        "name": "specter_uniq_queries_train.jsonl.gz",
+        "lines": 684100,
+        "weight": 1,
+        "instruction": "Given a statement, retrieve related statements"
+    },
+    {
+        "name": "NQ-train_pairs_train.jsonl.gz",
+        "lines": 100231,
+        "weight": 16,
+        "instruction": "Given a question, retrieve Wikipedia passages that answer the question"
+    },
+    {
+        "name": "stackexchange_title_body_1M_train.jsonl.gz",
+        "lines": 5415570,
+        "weight": 1,
+        "instruction": "Given a claim or statement, retrieve documents that support the claim or statement"
+    },
+    {
+        "name": "S2ORC_title_abstract-1M_train.jsonl.gz",
+        "lines": 10000000,
+        "weight": 1,
+        "instruction": "Given a statement, retrieve related passages"
+    },
+    {
+        "name": "hotpotqa_part1_train.jsonl.gz",
+        "lines": 85000,
+        "weight": 16,
+        "instruction": "Given a multi-hop question, retrieve documents that can help answer the question"
+    },
+    {
+        "name": "hotpotqa_part2_train.jsonl.gz",
+        "lines": 85000,
+        "weight": 16,
+        "instruction": "Given a multi-hop question, retrieve documents that can help answer the question"
+    },
+    {
+        "name": "fever_train.jsonl.gz",
+        "lines": 109810,
+        "weight": 2,
+        "instruction": "Given a claim, retrieve documents that support or refute the claim"
+    },
+    {
+        "name": "searchQA_question_top5_snippets_merged_train.jsonl.gz",
+        "lines": 99,
+        "weight": 1,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "pubmed_title_abstract_1M_train.jsonl.gz",
+        "lines": 99,
+        "weight": 1,
+        "instruction": "Given a medical claim or statement, retrieve documents that support the claim or statement"
+    },
+    {
+        "name": "arguana_synthetic_train.jsonl.gz",
+        "lines": 99,
+        "weight": 1,
+        "instruction": "Given a claim, find documents that refute the claim"
+    },
+    {
+        "name": "en_miracal_train_split_1pos-HN-2_train.jsonl.gz",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "ibm_cio_ibm_docs_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "ibm_cio_support_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "ibmtech_single_turn_generations_granite_20k.jsonl",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "dpr_train_mdd.jsonl",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "sws_clean.jsonl.gz",
+        "lines": 99,
+        "weight": 1
+    },
+    {
+        "name": "beir_dbpedia-entity_1M_train.jsonl.gz",
+        "lines": 99,
+        "weight": 1,
+        "instruction": "Given a query, retrieve relevant entity descriptions"
+    },
+    {
+        "name": "neulab-conala-mined_mergededup_simlm.jsonl",
+        "lines": 99,
+        "weight": 2
+    },
+    {
+        "name": "project_codenet_C_C++_Java_Python_sdg_query.jsonl",
+        "lines": 99,
+        "weight": 2
+    },
+    {
+        "name": "code_instruct_python_docstring_to_function_simlm_fmt.jsonl",
+        "lines": 99,
+        "weight": 2
+    }
+]

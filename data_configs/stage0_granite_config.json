@@ -1,0 +1,152 @@
+[
+    {
+        "name": "stackexchange_duplicate_questions_title-body_title-body_train.jsonl.gz",
+        "lines": 250204,
+        "weight": 500,
+        "instruction": "Given a question, retrieve similiar questions"
+    },
+    {
+        "name": "stackexchange_duplicate_questions_body_body_train.jsonl.gz",
+        "lines": 250263,
+        "weight": 500,
+        "instruction": "Given a statement, retrieve similiar statement"
+    },
+    {
+        "name": "squad_pairs_uniq_passages_train.jsonl.gz",
+        "lines": 87343,
+        "weight": 296,
+        "instruction": "Given a question, retrieve Wikipedia passages that answer the question"
+    },
+    {
+        "name": "NQ-train_pairs_train.jsonl.gz",
+        "lines": 99975,
+        "weight": 317,
+        "instruction": "Given a question, retrieve Wikipedia passages that answer the question"
+    },
+    {
+        "name": "stackexchange_title_body_train.jsonl.gz",
+        "lines": 5415314,
+        "weight": 2327,
+        "instruction": "Given a claim or statement, retrieve documents that support the claim or statement"
+    },
+    {
+        "name": "stackexchange_Title_Answer_train.jsonl.gz",
+        "lines": 4066883,
+        "weight": 2016,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "stackexchange_TitleBody_Answer_train.jsonl.gz",
+        "lines": 186939,
+        "weight": 432,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "stackexchange_duplicate_questions_title_title_train.jsonl.gz",
+        "lines": 304269,
+        "weight": 551,
+        "instruction": "Given a question, retrieve similiar questions"
+    },
+    {
+        "name": "stackoverflow.com-Posts_train.jsonl.gz",
+        "lines": 18562187,
+        "weight": 4308,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "stackexchange_math_train.jsonl.gz",
+        "lines": 2201650,
+        "weight": 1483,
+        "instruction": "Given a math question, retrieve passages that answer the question"
+    },
+    {
+        "name": "specter_uniq_queries_train.jsonl.gz",
+        "lines": 683844,
+        "weight": 827,
+        "instruction": "Given a statement, retrieve related statements"
+    },
+    {
+        "name": "S2ORC_title_abstract_train.jsonl.gz",
+        "lines": 41768929,
+        "weight": 6462,
+        "instruction": "Given a statement, retrieve related passages"
+    },
+    {
+        "name": "S2ORC_citation_pairs_train.jsonl.gz",
+        "lines": 52603726,
+        "weight": 7252,
+        "instruction": "Given a statement, retrieve related statements"
+    },
+    {
+        "name": "S2ORC_citations_abstracts_train.jsonl.gz",
+        "lines": 52603726,
+        "weight": 7252,
+        "instruction": "Given a statement, retrieve related statements"
+    },
+    {
+        "name": "PAQ_pairs_train.jsonl.gz",
+        "lines": 64371185,
+        "weight": 8023,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "WikiAnswers_pairs_train.jsonl.gz",
+        "lines": 77427166,
+        "weight": 8799,
+        "instruction": "Given a question, retrieve similiar questions"
+    },
+    {
+        "name": "searchQA_question_top5_snippets_merged_train.jsonl.gz",
+        "lines": 582005,
+        "weight": 763,
+        "instruction": "Given a question, retrieve passages that answer the question"
+    },
+    {
+        "name": "wikipedia_train.jsonl.gz",
+        "lines": 6458414,
+        "weight": 2541,
+        "instruction": "Given a question, retrieve Wikipedia passages that answer the question"
+    },
+    {
+        "name": "wikipedia_sections_train.jsonl.gz",
+        "lines": 20745147,
+        "weight": 4555,
+        "instruction":  "Given a statement, retrieve related passages"
+    },
+    {
+        "name": "arxiv_train.jsonl.gz",
+        "lines": 2358289,
+        "weight": 1535,
+        "instruction": "Given a claim or statement, retrieve documents that support the claim or statement"
+    },
+    {
+        "name": "pubmed_title_abstract_train.jsonl.gz",
+        "lines": 19999744,
+        "weight": 4472,
+        "instruction": "Given a medical claim or statement, retrieve documents that support the claim or statement"
+    },
+    {
+        "name": "hard_negative_v2/sws_case_triples_all_simlm_fmt.jsonl.gz",
+        "lines": 40290,
+        "weight": 200,
+        "instruction": "Given a document title, retrieve relevant documents that matches the title"
+    },
+    {
+        "name": "hard_negative_v2/beir_dbpedia-entity_1M_train.jsonl.gz",
+        "lines": 4000000,
+        "weight": 100,
+        "instruction": "Given a query, retrieve relevant entity descriptions"
+    },
+    {
+        "name": "hard_negative_v2/ibm_cio_ibm_docs_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 99,
+        "weight": 677,
+        "instruction": "Given a document title, retrieve relevant documents that matches the title"
+    },
+    {
+        "name": "hard_negative_v2/ibm_cio_support_title_body_v2_HN15_ibmdocsdbpedia_slate30mrtrvr_simlm_fmt.jsonl.gz",
+        "lines": 99,
+        "weight": 989,
+        "instruction": "Given a document title, retrieve relevant documents that matches the title"
+    }
+]

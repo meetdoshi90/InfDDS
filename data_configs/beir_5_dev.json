@@ -1,0 +1,28 @@
+[
+    {
+      "name": "dbpedia-entity_dev.jsonl",
+      "lines": 5673,
+      "weight": 1
+    },
+    {
+      "name": "fever_dev.jsonl",
+      "lines": 8079,
+      "weight": 1
+    },
+    {
+      "name": "fiqa_dev.jsonl",
+      "lines": 1238,
+      "weight": 1
+    },
+    {
+      "name": "hotpotqa_dev.jsonl",
+      "lines": 10894,
+      "weight": 1
+    },
+    {
+      "name": "quora_dev.jsonl",
+      "lines": 7626,
+      "weight": 1
+    }
+  ]
+  

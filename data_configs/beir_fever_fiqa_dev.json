@@ -1,0 +1,12 @@
+[
+    {
+      "name": "fever_dev.jsonl",
+      "lines": 8079,
+      "weight": 1
+    },
+    {
+      "name": "fiqa_dev.jsonl",
+      "lines": 1238,
+      "weight": 1
+    }
+]

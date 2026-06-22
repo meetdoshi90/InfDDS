@@ -1,0 +1,38 @@
+[
+    {
+      "name": "msmarco-triplets.jsonl.gz",
+      "lines": 499184,
+      "weight": 19
+    },
+    {
+      "name": "nfcorpus.jsonl.gz",
+      "lines": 2590,
+      "weight": 2163
+    },
+    {
+      "name": "NQ-train_pairs.jsonl.gz",
+      "lines": 100231,
+      "weight": 2073
+    },
+    {
+      "name": "hotpotqa_pairs.jsonl.gz",
+      "lines": 85000,
+      "weight": 1625
+    },
+    {
+      "name": "fiqa.jsonl.gz",
+      "lines": 5500,
+      "weight": 3257
+    },
+    {
+      "name": "fever.jsonl.gz",
+      "lines": 109810,
+      "weight": 34
+    },
+    {
+      "name": "scifact.jsonl.gz",
+      "lines": 809,
+      "weight": 825
+    }
+  ]
+  

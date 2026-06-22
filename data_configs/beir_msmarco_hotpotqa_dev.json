@@ -1,0 +1,12 @@
+[
+    {
+      "name": "hotpotqa_dev.jsonl",
+      "lines": 10894,
+      "weight": 1
+    },
+    {
+      "name": "msmarco_dev.jsonl",
+      "lines": 7437,
+      "weight": 1
+    }
+  ]

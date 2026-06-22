@@ -1,0 +1,23 @@
+[
+    {
+      "name": "fever_dev.jsonl",
+      "lines": 8079,
+      "weight": 1
+    },
+    {
+      "name": "hotpotqa_dev.jsonl",
+      "lines": 10894,
+      "weight": 1
+    },
+    {
+      "name": "msmarco_dev.jsonl",
+      "lines": 7437,
+      "weight": 1
+    },
+    {
+      "name": "quora_dev.jsonl",
+      "lines": 7626,
+      "weight": 1
+    }
+  ]
+  

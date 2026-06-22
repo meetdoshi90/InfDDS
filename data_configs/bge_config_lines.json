@@ -1,0 +1,97 @@
+[
+    {
+        "name": "merged_swahili.jsonl.gz",
+        "lines": 3973,
+        "weight": 3973
+    },
+    {
+        "name": "merged_farsi.jsonl.gz",
+        "lines": 2107,
+        "weight": 2107
+    },
+    {
+        "name": "merged_finnish.jsonl.gz",
+        "lines": 9458,
+        "weight": 9458
+    },
+    {
+        "name": "merged_indonesian.jsonl.gz",
+        "lines": 8973,
+        "weight": 8973
+    },
+    {
+        "name": "merged_french.jsonl.gz",
+        "lines": 2751,
+        "weight": 2751
+    },
+    {
+        "name": "merged_german.jsonl.gz",
+        "lines": 1847,
+        "weight": 1847
+    },
+    {
+        "name": "merged_korean.jsonl.gz",
+        "lines": 4361,
+        "weight": 4361
+    },
+    {
+        "name": "merged_spanish.jsonl.gz",
+        "lines": 4416,
+        "weight": 4416
+    },
+    {
+        "name": "merged_italian.jsonl.gz",
+        "lines": 2151,
+        "weight": 2151
+    },
+    {
+        "name": "merged_portuguese.jsonl.gz",
+        "lines": 1845,
+        "weight": 1845
+    },
+    {
+        "name": "merged_japanese.jsonl.gz",
+        "lines": 9436,
+        "weight": 9436
+    },
+    {
+        "name": "merged_bengali.jsonl.gz",
+        "lines": 3344,
+        "weight": 3344
+    },
+    {
+        "name": "merged_telugu.jsonl.gz",
+        "lines": 7332,
+        "weight": 7332
+    },
+    {
+        "name": "merged_thai.jsonl.gz",
+        "lines": 8261,
+        "weight": 8261
+    },
+    {
+        "name": "merged_russian.jsonl.gz",
+        "lines": 11913,
+        "weight": 11913
+    },
+    {
+        "name": "merged_hindi.jsonl.gz",
+        "lines": 2787,
+        "weight": 2787
+    },
+    {
+        "name": "merged_arabic.jsonl.gz",
+        "lines": 17689,
+        "weight": 17689
+    },
+    {
+        "name": "merged_chinese.jsonl.gz",
+        "lines": 397993,
+        "weight": 397993
+    },
+    {
+        "name": "merged_english.jsonl.gz",
+        "lines": 1069227,
+        "weight": 1069227
+    }
+]
